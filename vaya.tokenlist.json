@@ -1,0 +1,21 @@
+{
+  "name": "VAYA Token List",
+  "timestamp": "2025-08-14T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 2741,
+      "address": "0x76Bdb3b8c055Fc077d8c4669a4fD9982820e1F37",
+      "name": "VAYA Queen Of The Lost Socks",
+      "symbol": "VAYA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/VAYAtheQueen/vaya-tokenlist/main/vaya_512.png",
+      "extensions": {
+        "website": "",
+        "twitter": "https://x.com/VAYA_the_Queen",
+        "telegram": "",
+        "discord": "https://discord.gg/9UbYyq3D"
+      }
+    }
+  ]
+}
